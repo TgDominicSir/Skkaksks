@@ -1,0 +1,103 @@
+﻿1
+00:00:00,000 --> 00:00:00,191
+<i><font color="#ff0000"><b>T
+
+2
+00:00:00,192 --> 00:00:00,384
+<i><font color="#ff0000"><b>Te
+
+3
+00:00:00,385 --> 00:00:00,576
+<i><font color="#ff0000"><b>Tel
+
+4
+00:00:00,577 --> 00:00:00,768
+<i><font color="#ff0000"><b>Tele
+
+5
+00:00:00,769 --> 00:00:00,961
+<i><font color="#ff0000"><b>Teleg
+
+6
+00:00:00,962 --> 00:00:01,153
+<i><font color="#ff0000"><b>Telegr
+
+7
+00:00:01,154 --> 00:00:01,345
+<i><font color="#ff0000"><b>Telegra
+
+8
+00:00:01,346 --> 00:00:01,537
+<i><font color="#ff0000"><b>Telegram
+
+9
+00:00:01,538 --> 00:00:01,730
+<i><font color="#ff0000"><b>Telegram @
+
+10
+00:00:01,731 --> 00:00:01,922
+<i><font color="#ff0000"><b>Telegram @T
+
+11
+00:00:01,923 --> 00:00:02,114
+<i><font color="#ff0000"><b>Telegram @Te
+
+12
+00:00:02,115 --> 00:00:02,307
+<i><font color="#ff0000"><b>Telegram @Tea
+
+13
+00:00:02,308 --> 00:00:02,499
+<i><font color="#ff0000"><b>Telegram @Team
+
+14
+00:00:02,500 --> 00:00:02,691
+<i><font color="#ff0000"><b>Telegram @TeamC
+
+15
+00:00:02,692 --> 00:00:02,884
+<i><font color="#ff0000"><b>Telegram @TeamCl
+
+16
+00:00:02,885 --> 00:00:03,076
+<i><font color="#ff0000"><b>JTelegram @TeamCla
+
+17
+00:00:03,077 --> 00:00:03,268
+<i><font color="#ff0000"><b>Telegram @TeamClas
+
+18
+00:00:03,269 --> 00:00:03,461
+<i><font color="#ff0000"><b>Telegram @TeamClass
+
+19
+00:00:03,462 --> 00:00:03,653
+<i><font color="#ff0000"><b>Telegram @TeamClassi
+
+20
+00:00:03,654 --> 00:00:03,845
+<i><font color="#ff0000"><b>Telegram @TeamClassic
+
+21
+00:00:03,846 --> 00:00:04,037
+<i><font color="#ff0000"><b>Telegram @TeamClassicC
+
+22
+00:00:04,038 --> 00:00:04,230
+<i><font color="#ff0000"><b>Telegram @TeamClassicCi
+
+23
+00:00:04,231 --> 00:00:04,422
+<i><font color="#ff0000"><b>Telegram @TeamClassicCin
+
+24
+00:00:04,423 --> 00:00:04,614
+<i><font color="#ff0000"><b>Telegram @TeamClassicCine
+
+25
+00:00:04,615 --> 00:00:04,807
+<i><font color="#ff0000"><b>Telegram @TeamClassicCinem
+
+26
+00:00:04,808 --> 00:01:00,000
+<i><font color="#ff0000"><b>Telegram @TeamClassicCinemas
